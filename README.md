@@ -13,11 +13,11 @@
 - [Acknowledgements](#acknowledgements)
 
 ## About
-This project involves creating a dimensional data model using MySQL Workbench for a car repair shop's operations in western Canada by examining a sample [invoice](https://drive.google.com/file/d/1enihc1uFFW9dHPYFiBC27wpk92QodBC-/view?usp=sharing) of the business.  The project objective is to analyze sales performance and make informed decisions by examining customer behavior, vehicle trends, job performance, parts usage, and overall financial health. 
+This project involves creating a dimensional data model using MySQL Workbench for a car repair shop's operations in western Canada by examining a sample [invoice](https://github.com/mchenryspagg/creating-a-dimensional-data-model/blob/main/salesreceipt.png) of the business.  The project objective is to analyze sales performance and make informed decisions by examining customer behavior, vehicle trends, job performance, parts usage, and overall financial health. 
 
 
 ## Project Overview
-You are tasked with performing a comprehensive analysis of a car repair shop’s operations based on a sample [invoice](https://drive.google.com/file/d/1enihc1uFFW9dHPYFiBC27wpk92QodBC-/view?usp=sharing). The data includes information about customers, vehicles, jobs performed, parts used, and invoice summaries. Your goal is to extract meaningful insights using SQL and generate reports that can help the business optimize its operations, improve customer satisfaction, and increase profitability.
+You are tasked with performing a comprehensive analysis of a car repair shop’s operations based on a sample [invoice](https://github.com/mchenryspagg/creating-a-dimensional-data-model/blob/main/salesreceipt.png). The data includes information about customers, vehicles, jobs performed, parts used, and invoice summaries. Your goal is to extract meaningful insights using SQL and generate reports that can help the business optimize its operations, improve customer satisfaction, and increase profitability.
 You will first suggest a design for a dimensional model to analyze data based on what data you think is relevant for a sales analysis. This technique reinforces that a dimensional model should be a logical business view of data.
 
 
@@ -27,7 +27,7 @@ The model will satisfy the following general needs:
 -	Locations across western Canada.
 -	Provide flexible analysis of sales of both services and parts by customer, vehicle brand/model/year, and shop location.
 
-A sample [invoice](https://drive.google.com/file/d/1enihc1uFFW9dHPYFiBC27wpk92QodBC-/view?usp=sharing) illustrates the information recorded for auto service. Using only this information, infer a design for a dimensional model. The sample invoice may contain information that is superfluous to the core purpose of the model; and include only what is relevant for sales analysis.
+A sample [invoice](https://github.com/mchenryspagg/creating-a-dimensional-data-model/blob/main/salesreceipt.png) illustrates the information recorded for auto service. Using only this information, infer a design for a dimensional model. The sample invoice may contain information that is superfluous to the core purpose of the model; and include only what is relevant for sales analysis.
 
 
 
