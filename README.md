@@ -5,7 +5,6 @@
 - [About](#about)
 - [Project Overview](#project-overview)
 - [Business Requirements](#business-requirements)
-- [Part A](#part-a)
 - [Steps to Create the Dimensional Model](#steps-to-create-the-dimensional-model)
 - [Data Model Design](#data-model-design)
 - [Table Description](#table-description)
